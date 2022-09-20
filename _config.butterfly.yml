@@ -81,7 +81,7 @@ favicon: /img/logo.png
 
 # Avatar (頭像)
 avatar:
-  img: ./public/img/logo.png
+  img: /img/avatar.jpeg
   effect: false
 
 # Disable all banner image
@@ -204,10 +204,10 @@ reward:
 # Post edit
 # Easily browse and edit blog source code online.
 post_edit:
-  enable: false
+  enable: true
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url:
+url: https://github.com/rogeroger-yu/blog/edit/main/source/
 
 # Related Articles
 related_post:
